@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  align-items: flex-start;
+  background-color: #64748b;
+}
+.events-content {
+  width: 60%;
+  height: 100vh;
+  padding: 0px;
+  overflow-y: auto;
+}
+
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 0px;
+  padding-left: 0px;
+}
